@@ -17,3 +17,4 @@ Task 3: In tableau import data and set the relationships.
 [https://public.tableau.com/app/profile/rajesh7222/viz/DataVisualisation1_16762339692600/GDPDashboard]
 (https://public.tableau.com/app/profile/rajesh7222/viz/DataVisualisation1_16762339692600/GDPDashboard)
 
+(<img width="960" alt="2023-03-28" src="https://user-images.githubusercontent.com/115492636/228242842-7eedf809-1c8c-4094-ab5e-906660632e5a.png">)
