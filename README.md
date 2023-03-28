@@ -1,4 +1,4 @@
-# Data-Analysis-2
+# Wealth of Nations Assignment in Excel and Tableau
 Tableau Data Visualisation Project covering:
 1. Data and Data structure
 2. Developement of Data Sets using Excel
